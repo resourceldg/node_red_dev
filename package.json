@@ -1,0 +1,15 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "node-red-contrib-re-postgres": "~0.2.2",
+        "node-red-contrib-sms-free-mobile": "~0.1.0",
+        "node-red-contrib-sms-twilio": "0.0.2",
+        "node-red-contrib-smstools": "~1.1.1",
+        "node-red-dashboard": "~2.25.0",
+        "node-red-node-email": "~1.8.2",
+        "node-red-node-twilio": "~0.1.0"
+    }
+}
