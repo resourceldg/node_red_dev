@@ -699,23 +699,5 @@
                 "file": "/data/node_modules/node-red-node-twilio/56-twilio.js"
             }
         }
-    },
-    "node-red-contrib-smstools": {
-        "name": "node-red-contrib-smstools",
-        "version": "1.1.1",
-        "local": true,
-        "nodes": {
-            "smstools": {
-                "name": "smstools",
-                "types": [
-                    "sms-in",
-                    "sms-out"
-                ],
-                "enabled": true,
-                "local": true,
-                "module": "node-red-contrib-smstools",
-                "file": "/data/node_modules/node-red-contrib-smstools/smstools/index.js"
-            }
-        }
     }
 }
